@@ -42,7 +42,9 @@ TOPN(10,
     SUMMARIZE(Orders, Orders[Customer Name], "TotalProfit", SUM(Orders[Profit])),
     [TotalProfit], DESC
 )
-📈 Dashboard Features
+```
+## 📈 Dashboard Features
+```
 ✅ KPI Cards:
 Total Sales: $12.64M
 
@@ -64,8 +66,9 @@ Sales by Region: Asia Pacific, USCA, Europe, etc.
 Top Profitable Customers: Tamara Chand, Raymond Buch, Sanjit Chand
 
 Profit Trends: Year-wise and Market-wise
-
-🔍 Insights Derived
+```
+## 🔍 Insights Derived
+```
 📉 Certain products like Bevis Routers and Cubify Printers consistently resulted in losses.
 
 📈 Majority of profits came from the Consumer segment and Asia Pacific region.
@@ -84,4 +87,4 @@ Power Query
 DAX
 
 Excel (.xlsx)
-
+```
